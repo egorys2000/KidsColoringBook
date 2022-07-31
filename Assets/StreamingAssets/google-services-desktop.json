@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "711094217622",
+    "project_id": "drawing-for-kids-91d13",
+    "storage_bucket": "drawing-for-kids-91d13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711094217622:ios:5788e470ef9565a5f84bb7",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Drawing-For-Kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711094217622-rnpmf73nk4032fmu1bdmn1jpteu5f8ko.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxkvV2v1Q3_oIG2kJsdR5sj44h_f7Jnt8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
